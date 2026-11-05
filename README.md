@@ -4,7 +4,6 @@
 
 <div align="center">
 
-## 👉 [**포트폴리오 보러 가기: jhk4308.github.io**](https://jhk4308.github.io/) 👈
 
 [![Open Portfolio](https://img.shields.io/badge/Portfolio%20열기-3A57D3?style=for-the-badge&logo=githubpages&logoColor=white)](https://jhk4308.github.io/)
 [![PDF](https://img.shields.io/badge/PDF%20다운로드-111946?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://jhk4308.github.io/assets/portfolio-kim-junghyun.pdf)
