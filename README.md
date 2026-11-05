@@ -2,6 +2,24 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20My%20GitHub!&fontAlign=40&fontAlignY=40&color=gradient)
 
+<div align="center">
+
+### 이미지를 누르면 포트폴리오 사이트가 열립니다
+
+[![Portfolio Home](assets/portfolio/01-hero.jpg)](https://jhk4308.github.io/)
+
+[![Projects](assets/portfolio/03-projects.jpg)](https://jhk4308.github.io/#projects)
+
+[![About](assets/portfolio/02-about.jpg)](https://jhk4308.github.io/#about) 
+[![Skills](assets/portfolio/04-skills.jpg)](https://jhk4308.github.io/#skills)
+
+[![Open Portfolio](https://img.shields.io/badge/Portfolio%20열기-3A57D3?style=for-the-badge&logo=githubpages&logoColor=white)](https://jhk4308.github.io/)
+[![PDF](https://img.shields.io/badge/PDF%20다운로드-111946?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://jhk4308.github.io/assets/portfolio-kim-junghyun.pdf)
+
+</div>
+
+---
+
 ## 👋 About Me
 
 **지표를 신뢰 가능하게 만드는 데이터 분석가 김정현입니다.**  
