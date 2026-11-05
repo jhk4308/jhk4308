@@ -94,6 +94,4 @@ Raw data 가공과 EDA로 데이터 품질을 먼저 잡고,
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhk2858@gmail.com)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Jung-Hyun-Kim-b170ecdbdebe48b0b4c79ce6e7a2335f)
-<!-- 포트폴리오 사이트를 올린 뒤 아래 줄의 주소를 확인하고 주석을 풀어 주세요
 [![Portfolio](https://img.shields.io/badge/Portfolio-3A57D3?style=for-the-badge&logo=githubpages&logoColor=white)](https://jhk4308.github.io/)
--->
