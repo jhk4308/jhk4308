@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhk2858@gmail.com)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Jung-Hyun-Kim-b170ecdbdebe48b0b4c79ce6e7a2335f)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=160&text=Jung%20Hyun%20Kim&fontAlign=50&fontAlignY=40&color=gradient)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20My%20GitHub!&fontAlign=40&fontAlignY=40&color=gradient)
 
 </div>
 
